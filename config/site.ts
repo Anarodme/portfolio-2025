@@ -1,0 +1,42 @@
+export const siteConfig = {
+  name: "Ana Rodríguez | Developer Portfolio Template",
+  authorName: "Ana Rodríguez",
+  username: "anarodme",
+  description:
+    "Ana Rodríguez portfolio - A modern, responsive Next.js portfolio for developers. This open-source template can be customized to showcase your own skills, projects, and professional experience.",
+  url: "https://nbarkiya.xyz",
+  links: {
+    twitter: "",
+    github: "https://github.com/namanbarkiya",
+  },
+  ogImage: "",
+  iconIco:
+    "",
+  logoIcon:
+   "",
+  keywords: [
+    "Ana Rodríguez",
+    "Full Stack Developer",
+    "Web Developer Portfolio",
+    "Next.js portfolio template",
+    "React portfolio template",
+    "Developer portfolio template",
+    "Portfolio website template",
+    "Next.js template",
+    "Modern portfolio website",
+    "Frontend developer portfolio",
+    "Full stack developer portfolio",
+    "Open source portfolio template",
+    "Web developer portfolio template",
+    "Responsive portfolio template",
+    "React.js portfolio",
+    "Tailwind CSS portfolio",
+    "Developer showcase template",
+    "Free portfolio template",
+    "Next.js 13 template",
+    "Shadcn UI template",
+    "Career timeline template",
+    "Portfolio with dark mode",
+    "GitHub portfolio template",
+  ],
+};
